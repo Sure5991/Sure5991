@@ -1,0 +1,5 @@
+- 👋 Hi, I’m SURESH
+- 💻 I’m interested in Data Science
+- 👨‍💻 I’m currently learning IBM Data Analytics Course
+- 🕵️‍♀️ I’m looking to collaborate on Data Science Project
+- 📫 Email address :  rsuresh5991@gmail.com
