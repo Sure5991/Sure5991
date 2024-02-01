@@ -1,5 +1,6 @@
 - 👋 Hi, I’m SURESH
 - 💻 I’m interested in Data Science
-- 👨‍💻 I’m currently learning IBM Data Analytics Course
-- 🕵️‍♀️ I’m looking to collaborate on Data Science Project
+- 👨‍💻 Completed course in IBM Data Analytics Professional certificate
+- 👨‍💻 Currently progressing in IBM AI Engineering Professional certificate
+- 🕵️‍♀️ I’m looking to collaborate on Data Science Project or Data Science intership
 - 📫 Email address :  rsuresh5991@gmail.com
