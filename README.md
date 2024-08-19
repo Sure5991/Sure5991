@@ -1,7 +1,7 @@
 ### Hi there! 🙋‍♂️
 ### 👋 I’m SURESH,
-### 💻 2+ years as Data Analyst (Supply Chain and Operation ) at Stellar value chain solutions for 3PL Flipkart Logistic Operations in Coimbatore
-👨‍💻 Completed IBM Data Analytics Professional and IBM AI Engineering Professional Course
+### 💻  Data Analyst ( Operation ) at CEVA Logistics ( Stellar VCS) 3PL patnered with Flipkart MH
+👨‍💻 Goolge Data Analytics Professional Certified and Google Business intelligence Certified
 🕵️‍♀️ Working on Portfolio projects
 📫 Email address: rsuresh5991@gmail.com
 
